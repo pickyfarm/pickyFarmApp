@@ -16,3 +16,13 @@ export const SCREEN_NAME_STORE = "스토어";
 
 // 로그인 스크린 이름
 export const SCREEN_NAME_LOGIN = "로그인";
+
+/**
+ * store screen 상수
+ */
+
+// VerticalCard label 종류 상수
+export const VERTICAL_CARD_LABEL = {
+  NORMAL: "normal",
+  MOONAN: "moonan",
+};

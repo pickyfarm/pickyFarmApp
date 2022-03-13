@@ -41,7 +41,7 @@ export const TabBarOptions = (imgSrc: any, tabBarLabel: string, title: any) => (
 
 const TabNavigator = () => (
   <Tab.Navigator
-    initialRouteName="Home"
+    initialRouteName="Store"
     screenOptions={{
       tabBarInactiveTintColor: theme.color.green_01,
       headerTitleAlign: "center",
